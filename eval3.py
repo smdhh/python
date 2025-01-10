@@ -1,6 +1,7 @@
 
 
 
+
 reseau = {
     1: {"source": "192.168.0.1", "destination": "192.168.0.2", "type": "IPv4", "etat": "transmise"},
     2: {"source": "192.168.0.3", "destination": "192.168.0.4", "type": "ARP", "etat": "perdue"},
